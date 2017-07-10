@@ -4,7 +4,7 @@
 
 When building apps with Titanium Alloy, it's handy to be able to mock up screens before wiring up to a backend and when doing that it's useful to be able to populate screens with "real" data. But, if you don't have an API ready then what do you do? Mocx is designed to allow you to create create mock collections and modules that are compatible with Alloy's Backbone data-binding.
 
-## Using Movc
+## Using Mocx
 
 You can use Mocx to create a collection and populate a Table or Listview, or create Models on the fly, and it'll support the .fetch() method to pretend to get the model / collection. So you could use it to mock data and even persist data to local storage.
 
