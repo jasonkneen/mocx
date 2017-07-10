@@ -31,7 +31,6 @@
   },
   "homepage": "https://github.com/jasonkneen/mocx",
   "dependencies": {
-    "guid": "0.0.12"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
@@ -48,8 +47,7 @@
       ".git",
       ".gitignore",
       "dist",
-      "node_modules",
-      "package.json",
+      "node_modules",      
       "package.json",
       "publish.sh",
       "readme.md"
